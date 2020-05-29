@@ -36,10 +36,18 @@ article {
     line-height: 27pt;
 }
 
+hr {
+    width: 50%;
+}
+
 .mainPic {
     display: block;
     margin: 0 auto;
     max-width: 100%;
+}
+
+#hitori-title {
+    color: #ffc069;
 }
 
 #hitori-heroine {
@@ -59,6 +67,10 @@ article {
 
 .hitori-comments {
     font-size: 30px;
+}
+
+#hotaru-title {
+    color: #c62afa;
 }
 
 #hotaru-give{
@@ -81,6 +93,18 @@ article {
     width: auto;
 }
 
+#asuka-title {
+    color: #ff1f1f;
+}
+
+#lucy-title {
+    color: #ff63cb;
+}
+
+#qingling-title {
+    color: rgba(255, 255, 255, 0.5);
+}
+
 #qingling-huh {
     height: 450px;
     width: auto;
@@ -96,6 +120,13 @@ article {
     width: auto;
 }
 
+#lain-title {
+    color: #9c6e5c;
+}
+
+#sato-title {
+    color: #ffbaf2;
+}
 #sato-minor {
     height: 500px;
     width: auto;
