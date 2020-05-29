@@ -50,9 +50,9 @@ hr {
     width: 50%;
 }
 
-.figure {
+.grid-figure {
     display: grid;
-    grid-template-columns: 50% 50%;
+    justify-content: center;
 }
 .mainPic {
     display: block;
@@ -60,7 +60,7 @@ hr {
     max-width: 100%;
 }
 
-#hitori-title {
+.hitori-text {
     color: #ffc069;
 }
 
@@ -83,7 +83,7 @@ hr {
     font-size: 30px;
 }
 
-#hotaru-title {
+.hotaru-text {
     color: #c62afa;
 }
 
@@ -107,15 +107,15 @@ hr {
     width: auto;
 }
 
-#asuka-title {
+.asuka-text {
     color: #ff1f1f;
 }
 
-#lucy-title {
+.lucy-text {
     color: #ff63cb;
 }
 
-#qingling-title {
+.qingling-text {
     color: rgba(255, 255, 255, 0.5);
 }
 
@@ -134,11 +134,11 @@ hr {
     width: auto;
 }
 
-#lain-title {
+.lain-text {
     color: #9c6e5c;
 }
 
-#sato-title {
+.sato-text {
     color: #ffbaf2;
 }
 #sato-minor {
