@@ -74,7 +74,7 @@ hr {
 }
 
 #hitori-gossip {
-    grid-template-columns: 75% 25%;
+    grid-template-columns: 40% 15%;
 }
 
 #hitori-gossip-img {
@@ -83,7 +83,7 @@ hr {
 }
 
 #hitori-honest {
-    grid-template-columns: 25% 75%;
+    grid-template-columns: 15% 45%;
 }
 
 #hitori-honest-img {
@@ -91,8 +91,8 @@ hr {
     width: auto;
 }
 
-.hitori-comments {
-    font-size: 30px;
+#hitori-ruined {
+    grid-template-columns: 40% 15%;
 }
 
 .hotaru-text {
@@ -104,14 +104,26 @@ hr {
     width: auto;
 }
 
+#hotaru-mood {
+    grid-template-columns: 60% 15%;
+}
+
 #hotaru-mood-img {
     height: 450px;
     width: auto;
 }
 
+#hotaru-dirty {
+    grid-template-columns: 25% 40%;
+}
+
 #hotaru-dirty-img {
     height: 550px;
     width: auto;
+}
+
+#hotaru-preg {
+    grid-template-columns: 40% 15%;
 }
 
 #hotaru-preg-img {
@@ -123,8 +135,24 @@ hr {
     color: #ff1f1f;
 }
 
+#asuka-lie {
+    grid-template-columns: 15% 40%;
+}
+
+#asuka-kill {
+    grid-template-columns: 40% 15%;
+}
+
 .lucy-text {
     color: #ff63cb;
+}
+
+#lucy-liar {
+    grid-template-columns: 50% 15%;
+}
+
+#lucy-gir {
+    grid-template-columns: 15% 50%;
 }
 
 .qingling-text {
@@ -134,6 +162,10 @@ hr {
 #qingling-huh {
     height: 450px;
     width: auto;
+}
+
+#qingling-delic {
+    grid-template-columns: 15% 40%;
 }
 
 #qingling-delic-img {
@@ -146,10 +178,21 @@ hr {
     width: auto;
 }
 
+#qingling-can-cap {
+    text-align: center;
+}
+
 .lain-text {
     color: #9c6e5c;
 }
 
+#lain-walking {
+    grid-template-columns: 55% 15%;
+}
+
+#lain-stare {
+    grid-template-columns: 15% 55%;
+}
 .sato-text {
     color: #ffbaf2;
 }
@@ -158,9 +201,17 @@ hr {
     width: auto;
 }
 
+#sato-gomf {
+    grid-template-columns: 15% 60%;
+}
+
 #sato-gomf-img {
     height: 450px;
     width: auto;
+}
+
+#sato-shiver {
+    grid-template-columns: 50% 15%;
 }
 
 #sato-shiver-img {
