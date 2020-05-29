@@ -72,8 +72,12 @@ hr {
 }
 
 .spoiler-field {
-    border-color: #ad0000;
+    border-color: black;
     border-style: solid;
+}
+
+#romance-chart-img {
+    margin: 20px auto 20px auto;
 }
 
 .grid-figure {
