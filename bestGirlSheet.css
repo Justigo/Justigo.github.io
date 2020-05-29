@@ -56,8 +56,9 @@ hr {
 .grid-figure {
     display: grid;
     justify-content: center;
-    align-content: space-evenly;
+    align-content: center;
     grid-template-rows: 100%;
+    grid-gap: 15px 0px;
 }
 .mainPic {
     display: block;
