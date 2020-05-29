@@ -52,6 +52,7 @@ hr {
 .grid-figure {
     display: grid;
     justify-content: center;
+    align-content: center;
 }
 .mainPic {
     display: block;
