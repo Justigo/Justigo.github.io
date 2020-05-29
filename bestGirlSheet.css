@@ -14,7 +14,7 @@ article {
     color: white;
 }
 
-figure {
+.mainPic {
     display: block;
     margin: 0 auto;
 }
