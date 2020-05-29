@@ -30,11 +30,27 @@ h3 {
 
 article {
     color: white;
+    text-indent: 5em;
 }
 
 .mainPic {
     display: block;
     margin: auto;
     max-width: 100%;
+}
+
+#hitori-heroine {
+    height: 50%;
+    width: auto;
+}
+
+#hitori-gossip-img {
+    height: 50%;
+    width: auto;
+}
+
+#hitori-honest-img {
+    height: 50%;
+    width: auto;
 }
 
