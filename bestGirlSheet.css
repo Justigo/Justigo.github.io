@@ -69,7 +69,7 @@ hr {
 }
 
 #hitori-gossip {
-    grid-template-columns: 60% auto;
+    grid-template-columns: auto auto;
 }
 
 #hitori-gossip-img {
