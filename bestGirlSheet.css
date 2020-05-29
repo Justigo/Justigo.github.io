@@ -58,9 +58,9 @@ hr {
     justify-content: center;
     align-content: center;
     text-align: center;
-    grid-template-rows: 100%;
     margin: 20px 0px 20px 0px;
 }
+
 .mainPic {
     display: block;
     margin: 0 auto;
