@@ -91,7 +91,7 @@ hr {
     display: block;
     height: 200px;
     width: auto;
-    margin: 0 auto;
+    margin: 0 auto 10 auto;
 }
 
 #goddess {
@@ -104,6 +104,7 @@ hr {
 }
 
 #hotaru-poster-img {
+    height: 150px;
     width: auto;
 }
 
@@ -121,18 +122,22 @@ hr {
 }
 
 #lucy-poster-img {
+    height: 125px;
     width: auto;
 }
 
 #qingling-poster-img {
+    height: 125px;
     width: auto;
 }
 
 #lain-poster-img {
+    height: 125px;
     width: auto;
 }
 
 #sato-poster-img {
+    height: 125px;
     width: auto;
 }
 
