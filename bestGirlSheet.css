@@ -108,14 +108,32 @@ hr {
 }
 
 #asuka-poster-img {
+    height: 150px;
     width: auto;
 }
 
 #runners-up {
     display: grid;
+    height: 125px;
     justify-content: center;
     align-content: center;
     grid-template-columns: 25% 25% 25% 25%;
+}
+
+#lucy-poster-img {
+    width: auto;
+}
+
+#qingling-poster-img {
+    width: auto;
+}
+
+#lain-poster-img {
+    width: auto;
+}
+
+#sato-poster-img {
+    width: auto;
 }
 
 .grid-figure {
