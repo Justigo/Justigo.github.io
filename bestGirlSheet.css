@@ -185,6 +185,7 @@ hr {
 }
 
 #qingling-can-img {
+    display: block;
     height: 90%;
     width: auto;
     margin: 20px auto 20px auto;
