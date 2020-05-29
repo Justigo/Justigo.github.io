@@ -128,7 +128,7 @@ hr {
     display: grid;
     justify-content: center;
     align-content: center;
-    grid-template-columns: 25% 15% 25% 15%;
+    grid-template-columns: auto auto auto auto;
 }
 
 #lucy-poster-img {
