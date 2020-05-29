@@ -42,6 +42,10 @@ h3 {
     margin: auto;
 }
 
+.caption-img {
+    margin: auto;
+}
+
 article {
     color: white;
     text-indent: 2em;
@@ -64,7 +68,7 @@ hr {
 
 .mainPic {
     display: block;
-    margin: 0 auto 10px;
+    margin: 0 auto 10px auto;
     max-width: 100%;
 }
 
@@ -87,7 +91,7 @@ hr {
 }
 
 #hitori-honest {
-    grid-template-columns: 15% 45%;
+    grid-template-columns: 25% 45%;
 }
 
 #hitori-honest-img {
@@ -109,7 +113,7 @@ hr {
 }
 
 #hotaru-mood {
-    grid-template-columns: 60% 15%;
+    grid-template-columns: 55% 15%;
 }
 
 #hotaru-mood-img {
@@ -118,7 +122,7 @@ hr {
 }
 
 #hotaru-dirty {
-    grid-template-columns: 25% 40%;
+    grid-template-columns: 25% 35%;
 }
 
 #hotaru-dirty-img {
@@ -140,7 +144,7 @@ hr {
 }
 
 #asuka-lie {
-    grid-template-columns: 15% 40%;
+    grid-template-columns: 20% 40%;
 }
 
 #asuka-kill {
@@ -152,11 +156,11 @@ hr {
 }
 
 #lucy-liar {
-    grid-template-columns: 50% 15%;
+    grid-template-columns: 42% 15%;
 }
 
 #lucy-gir {
-    grid-template-columns: 15% 50%;
+    grid-template-columns: 25% 45%;
 }
 
 .qingling-text {
@@ -169,7 +173,7 @@ hr {
 }
 
 #qingling-delic {
-    grid-template-columns: 15% 40%;
+    grid-template-columns: 25% 40%;
 }
 
 #qingling-delic-img {
@@ -191,11 +195,11 @@ hr {
 }
 
 #lain-walking {
-    grid-template-columns: 55% 15%;
+    grid-template-columns: 45% 15%;
 }
 
 #lain-stare {
-    grid-template-columns: 15% 55%;
+    grid-template-columns: 15% 45%;
 }
 .sato-text {
     color: #ffbaf2;
@@ -206,7 +210,7 @@ hr {
 }
 
 #sato-gomf {
-    grid-template-columns: 15% 60%;
+    grid-template-columns: 15% 45%;
 }
 
 #sato-gomf-img {
@@ -215,7 +219,7 @@ hr {
 }
 
 #sato-shiver {
-    grid-template-columns: 50% 15%;
+    grid-template-columns: 45% 15%;
 }
 
 #sato-shiver-img {
