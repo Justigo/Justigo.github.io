@@ -63,7 +63,7 @@ hr {
 
 .mainPic {
     display: block;
-    margin: 0 auto 5px 0;
+    margin: 0 auto 10px auto;
     max-width: 100%;
 }
 
@@ -95,7 +95,7 @@ hr {
 }
 
 #hitori-ruined {
-    grid-template-columns: 60% 15%;
+    grid-template-columns: 50% 15%;
 }
 
 .hotaru-text {
