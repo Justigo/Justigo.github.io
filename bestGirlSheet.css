@@ -43,21 +43,37 @@ article {
 }
 
 #hitori-heroine {
-    height: 500px;
+    height: 400px;
     width: auto;
 }
 
 #hitori-gossip-img {
-    height: 400px;
+    height: 300px;
     width: auto;
 }
 
 #hitori-honest-img {
-    height: 400px;
+    height: 300px;
     width: auto;
 }
 
 .hitori-comments {
     font-size: 30px;
 }
+
+#hotaru-give{
+    height: 75%;
+    width: auto;
+}
+
+#hotaru-mood-img {
+    height: 60%;
+    width: auto;
+}
+
+#hotaru-dirty-img {
+    height: 65%;
+    width: auto;
+}
+
 
