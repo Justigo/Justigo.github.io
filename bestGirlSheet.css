@@ -205,6 +205,7 @@ hr {
 
 #lain-stare {
     grid-template-columns: 25% 40%;
+    grid-gap: 0px 20px;
 }
 .sato-text {
     color: #ffbaf2;
