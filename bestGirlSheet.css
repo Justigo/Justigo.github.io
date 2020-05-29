@@ -89,27 +89,39 @@ hr {
 
 #hitori-poster-img {
     display: block;
-    height: 350px;
+    height: 400px;
     width: auto;
-    margin: 10px auto 10px auto;
+    margin: 0px auto 0px auto;
+}
+
+#hitori-poster-img:hover{
+    border-color: #ffc069;
 }
 
 #goddess {
     display: grid;
     justify-content: center;
     align-content: center;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 25% 50%;
 }
 
 #hotaru-poster-img {
     justify-content: center;
-    height: 200px;
+    height: 275px;
     width: auto;
 }
 
+#hotaru-poster-img:hover {
+    border-color: #c62afa;
+}
+
 #asuka-poster-img {
-    height: 200px;
+    height: 275px;
     width: auto;
+}
+
+#asuka-poster-img:hover {
+    border-color: #ff1f1f;
 }
 
 #runners-up {
@@ -120,23 +132,39 @@ hr {
 }
 
 #lucy-poster-img {
-    height: 200px;
+    height: 250px;
     width: auto;
+}
+
+#lucy-poster-img:hover {
+    border-color: #ff63cb;
 }
 
 #qingling-poster-img {
-    height: 200px;
+    height: 250px;
     width: auto;
+}
+
+#qingling-poster-img:hover {
+    border-color: rgba(255, 255, 255, 0.5);
 }
 
 #lain-poster-img {
-    height: 200px;
+    height: 250px;
     width: auto;
 }
 
+#lain-poster-img:hover {
+    border-color: #9c6e5c;
+}
+
 #sato-poster-img {
-    height: 125px;
+    height: 250px;
     width: auto;
+}
+
+#sato-poster-img:hover {
+    border-color: #ffbaf2;
 }
 
 .grid-figure {
