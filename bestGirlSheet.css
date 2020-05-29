@@ -89,50 +89,48 @@ hr {
 
 #hitori-poster-img {
     display: block;
-    height: 200px;
+    height: 350px;
     width: auto;
     margin: 10px auto 10px auto;
 }
 
 #goddess {
     display: grid;
-    height: 150px;
-    width: auto;
     justify-content: center;
     align-content: center;
     grid-template-columns: 50% 50%;
 }
 
 #hotaru-poster-img {
-    height: 150px;
+    justify-content: center;
+    height: 200px;
     width: auto;
 }
 
 #asuka-poster-img {
-    height: 150px;
+    height: 200px;
     width: auto;
 }
 
 #runners-up {
     display: grid;
-    height: 125px;
     justify-content: center;
     align-content: center;
     grid-template-columns: 25% 25% 25% 25%;
 }
 
 #lucy-poster-img {
-    height: 125px;
+    height: 200px;
     width: auto;
 }
 
 #qingling-poster-img {
-    height: 125px;
+    height: 200px;
     width: auto;
 }
 
 #lain-poster-img {
-    height: 125px;
+    height: 200px;
     width: auto;
 }
 
