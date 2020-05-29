@@ -37,6 +37,10 @@ h3 {
     text-align: center;
 }
 
+.caption {
+    font-size: 40px;
+}
+
 article {
     color: white;
     text-indent: 2em;
@@ -70,7 +74,7 @@ hr {
 }
 
 #hitori-gossip {
-    grid-template-columns: auto 25%;
+    grid-template-columns: 75% 25%;
 }
 
 #hitori-gossip-img {
@@ -79,7 +83,7 @@ hr {
 }
 
 #hitori-honest {
-    grid-template-columns: 25% 40%;
+    grid-template-columns: 25% 75%;
 }
 
 #hitori-honest-img {
