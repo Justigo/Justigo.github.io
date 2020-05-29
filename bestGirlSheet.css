@@ -83,17 +83,32 @@ hr {
     margin: 20px auto 20px auto;
 }
 
+#tier-list{
+    color: #42f5c5;
+}
+
 #goat{
     display: block;
-    height: 250px;
+    height: 200px;
     width: auto;
+    margin: 0 auto;
 }
 
 #goddess {
     display: grid;
+    height: 150px;
+    width: auto;
     justify-content: center;
     align-content: center;
     grid-template-columns: 50% 50%;
+}
+
+#hotaru-poster-img {
+    width: auto;
+}
+
+#asuka-poster-img {
+    width: auto;
 }
 
 #runners-up {
