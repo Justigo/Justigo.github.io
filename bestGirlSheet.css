@@ -87,11 +87,11 @@ hr {
     color: #42f5c5;
 }
 
-#goat{
+#hitori-poster-img {
     display: block;
     height: 200px;
     width: auto;
-    margin: 0 auto 10 auto;
+    margin: 10px auto 10px auto;
 }
 
 #goddess {
