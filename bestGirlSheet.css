@@ -69,12 +69,16 @@ hr {
 }
 
 #hitori-gossip {
-    grid-template-columns: auto auto;
+    grid-template-columns: auto 25%;
 }
 
 #hitori-gossip-img {
     height: 500px;
     width: auto;
+}
+
+#hitori-honest {
+    grid-template-columns: 25% 40%;
 }
 
 #hitori-honest-img {
