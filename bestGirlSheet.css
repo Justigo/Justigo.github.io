@@ -102,7 +102,7 @@ hr {
     display: grid;
     justify-content: center;
     align-content: center;
-    grid-template-columns: 25% 50%;
+    grid-template-columns: auto auto;
 }
 
 #hotaru-poster-img {
@@ -128,7 +128,7 @@ hr {
     display: grid;
     justify-content: center;
     align-content: center;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 25% 15% 25% 15%;
 }
 
 #lucy-poster-img {
