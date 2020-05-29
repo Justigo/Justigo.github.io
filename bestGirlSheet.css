@@ -44,6 +44,9 @@ h3 {
 
 .caption-img {
     margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 article {
