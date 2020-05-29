@@ -3,12 +3,13 @@ body {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 75px;
     font-weight: bold;
     text-align: center;
+    color: #47ff8b;
 }
 
-.title {
+.title { 
     background-color: #26292e;
     background-image: linear-gradient(45deg, 
         pink, blue);
@@ -21,6 +22,9 @@ h1 {
 }
 
 h3 {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
     color: purple;
 }
 
