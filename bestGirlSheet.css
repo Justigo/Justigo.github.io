@@ -362,6 +362,8 @@ hr {
 }
 
 #thanks-gif {
-    width: 80%;
-    height: auto;
+    display: block;
+    height: 450px;
+    width: auto;
+    margin: 0px auto 0px auto;
 }
