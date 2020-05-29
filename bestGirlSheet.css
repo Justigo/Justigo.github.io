@@ -11,19 +11,18 @@ h1 {
 .title { 
     background-color: #26292e;
     background-image: linear-gradient(45deg, 
-    #ffc069 12.5%,
-    #c62afa 12.5%,
-    #c62afa 25%,
-    #ff1f1f 25%,
-    #ff1f1f 37.5%,
-    #ff63cb 37.5%,
-    #ff63cb 50%,
-    rgba(255, 255, 255, 0.5) 50%,
-    rgba(255, 255, 255, 0.5) 62.5%,
-    #9c6e5c 62.5%,
-    #9c6e5c 75%,
-    #ffbaf2 75%,
-    #ffbaf2 87.5%);
+    #ffc069 38.143%,
+    #c62afa 38.143%,
+    #c62afa 43.286%,
+    #ff1f1f 43.286%,
+    #ff1f1f 48.429%,
+    #ff63cb 48.429%,
+    #ff63cb 53.572%,
+    rgba(255, 255, 255, 0.5) 53.572%,
+    rgba(255, 255, 255, 0.5) 58.715%,
+    #9c6e5c 58.715%,
+    #9c6e5c 63.858%,
+    #ffbaf2 63.858%);
     background-size: 100%;
     background-repeat: repeat;
     background-clip: text;
