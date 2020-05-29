@@ -356,6 +356,12 @@ hr {
     width: auto;
 }
 
-#thank-you {
-    margin: 200px 0px 0px 0px;
+#thanks {
+    margin: 200px 0px 10px 0px;
+    color: #42f5c5;
+}
+
+#thanks-gif {
+    width: 80%;
+    height: auto;
 }
