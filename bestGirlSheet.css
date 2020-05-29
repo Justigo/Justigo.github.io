@@ -33,7 +33,7 @@ article {
     text-indent: 2em;
     margin: 0 7%;
     font-size: 30px;
-    line-height: 20pt;
+    line-height: 27pt;
 }
 
 .mainPic {
@@ -43,17 +43,17 @@ article {
 }
 
 #hitori-heroine {
-    height: 400px;
+    height: 500px;
     width: auto;
 }
 
 #hitori-gossip-img {
-    height: 300px;
+    height: 400px;
     width: auto;
 }
 
 #hitori-honest-img {
-    height: 300px;
+    height: 400px;
     width: auto;
 }
 
@@ -62,18 +62,22 @@ article {
 }
 
 #hotaru-give{
-    height: 75%;
+    height: 500px;
     width: auto;
 }
 
 #hotaru-mood-img {
-    height: 60%;
+    height: 350px;
     width: auto;
 }
 
 #hotaru-dirty-img {
-    height: 65%;
+    height: 500px;
     width: auto;
+}
+
+#hotaru-preg-img {
+    height: 350px;
 }
 
 
