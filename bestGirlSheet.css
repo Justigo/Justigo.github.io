@@ -52,6 +52,7 @@ hr {
 .grid-figure {
     display: grid;
     justify-content: center;
+    grid-template-columns: 50% 50%;
 }
 .mainPic {
     display: block;
